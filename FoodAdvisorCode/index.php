@@ -50,7 +50,7 @@ session_start(); // This starts the session, making session variables available 
 
             <button type="submit">Submit</button>
         </form>
-        <a href="admin.php">Admin Panel</a>
+
     </div>
 </body>
 </html>

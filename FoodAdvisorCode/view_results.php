@@ -107,7 +107,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 ?>
 <style>
     body {
-    background-image: url(images/f0b615f78dd809d68ec389f4bc8d94bb.jpg);
+    background-image: url(images/Unknown.jpeg);
     background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
